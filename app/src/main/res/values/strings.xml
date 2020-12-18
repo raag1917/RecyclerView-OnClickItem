@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView OnClickItem</string>
+    <string name="name">Name:</string>
+    <string name="person_name">Person Name</string>
+    <string name="last_name">Last Name:</string>
+    <string name="person_lastname">Person Lastname</string>
+</resources>
